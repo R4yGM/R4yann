@@ -1,4 +1,4 @@
-<span id="a">root@R4yan</span>:<span id="b">~</span><span id="c">$</span> cd /var/www/html//<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">root@R4yan</span>:<span id="b">~</span><span id="c">$</span> cd /var/www/html/<!-- kjsdfhkjdhsfkjdshfkj -->
 <span id="a">root@R4yan</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->website.txt<br/><br/>
 this website is just, "<span id="k">temporary</span>". <!-- sjkfhskjf -->
 
