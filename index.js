@@ -98,7 +98,7 @@ function replaceUrls(text) {
 }
 
 Typer.speed=3;
-Typer.file="R4y.txt";
+Typer.file="CodeNerve.txt";
 Typer.init();
  
 var timer = setInterval("t();", 30);
