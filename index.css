@@ -31,6 +31,17 @@ font-size:14px;
   margin-right:690;
   overflow: hidden;
 }
+#heo {
+		font-family: courier, monospace;
+	color: #fff;
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+font-size:14px;
+  margin-top:-90px;
+  margin-right:690;
+  overflow: hidden;
+}
 
 
 a {
