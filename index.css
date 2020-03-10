@@ -20,6 +20,18 @@ body {
 	margin-top:4px;
 	font-size:14px;
 }
+#hea {
+		font-family: courier, monospace;
+	color: #fff;
+  float: right;
+  text-align: center;
+  padding: 14px 16px;
+font-size:14px;
+  margin-top:-110px;
+  margin-right:690;
+  overflow: hidden;
+}
+
 
 a {
 	color: #0bc;
