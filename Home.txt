@@ -1,5 +1,5 @@
 <span id="a">r4yan@ubuntu</span>:<span id="b">~</span><span id="c">$</span> cd /home/r4yan/<!-- kjsdfhkjdhsfkjdshfkj -->
-<span id="a">r4yan@ubuntu</span>:<span id="b">~</span><span id="c">/var/www/html$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->home.txt<br/><br/>
+<span id="a">r4yan@ubuntu</span>:<span id="b">~</span><span id="c">/home/r4yan$</span> <!-- kjsdfhkjdhsfkjdshfkj -->./home.sh<br/><br/>
 this website is just, "<span id="k">temporary</span>". <!-- sjkfhskjf -->
 Hey There! This is the list about my projects.
 <p> ./<a href="https://play.google.com/store/apps/details?id=com.rayan.spaceiss">ISS TRACKER</a>
